@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The App Hub</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_first">SPOTIFY STREAMER</string>
+    <string name="txt_second">SCORES APP</string>
+    <string name="txt_third">LIBRARY APP</string>
+    <string name="txt_fourth">BUILD IT BIGGER</string>
+    <string name="txt_five">BACON READER</string>
+    <string name="txt_capstone">CAPSTONE</string>
+
+
+</resources>
